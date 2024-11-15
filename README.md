@@ -11,7 +11,7 @@
 <br/>
 
 <div>
-<img align="left" src="https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062.gif" height="160" width="160">
+<img align="left" src="https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062.gif" height="150" width="150">
 </div>
 
 <pre>
