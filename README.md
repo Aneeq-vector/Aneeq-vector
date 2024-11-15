@@ -75,7 +75,7 @@
   </a>
 </p>
 
-## 📊GitHub Stats
+## 📊 GitHub Stats
 <p align = "center"
   
 ![](https://github-readme-stats.vercel.app/api?username=Aneeq-vector&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -88,3 +88,13 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneeq-vector&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
+
+## <b>💪 Quote & Fact</b>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+
+<br>
+
+#### <p align="center"><b>- Thank you for taking the time to read my profile! -</b></p>
+
