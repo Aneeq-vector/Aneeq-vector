@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahmed Aneeq <img src="https://cdn-icons.flaticon.com/512/6416/6416338.gif" width="150" height="150"/></h1>
+<h1 align="center">Hi, I'm Ahmed Aneeq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
 <br/>
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
