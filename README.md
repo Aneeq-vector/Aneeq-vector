@@ -78,15 +78,15 @@
 ## 📊 GitHub Stats
 <p align = "center"
   
-![](https://github-readme-stats.vercel.app/api?username=Aneeq-vector&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-<p align = "center"
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneeq-vector&theme=radical&hide_border=false)<br/>
-
-<p align = "center"
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneeq-vector&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/Aneeq-vector">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneeq-vector&theme=radical&hide=glsl,python" />
+</a>
+</p>
+<br>
+<p align = "center">
+<a href="https://github.com/Aneeq-vector">
+<img src="https://github-readme-stats.vercel.app/api?username=Aneeq-vector&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+</a>
 </p>
 
 ## <b>💪 Quote & Fact</b>
