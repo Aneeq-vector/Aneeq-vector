@@ -16,7 +16,7 @@
 
 <pre>
 - 🌱 I’m currently learning <b>JAVA, PHP, C#, HTML, Python</b><br/>
-- 💬 Ask me about <b>JAVA, PHP, C#, HTML, Python</b><br/>
+- 💬 Ask me about <b>JAVA, PHP, C#, HTML, Java Script, Python</b><br/>
 - 📫 Contact me on <a href="mailto:ahmedaneeq.official@gmail.com"><b>ahmedaneeq.official@gmail.com</b></a><br/>
 - ⚡ <b>Call me xnee!</b>
 </pre>
