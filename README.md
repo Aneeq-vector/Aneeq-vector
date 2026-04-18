@@ -234,9 +234,6 @@ const aneeq = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aneeq-vector/Aneeq-vector/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aneeq-vector/Aneeq-vector/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
-> 💡 **Enable the snake:** Add a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) to auto-generate this animation.
-
 </div>
 
 ---
