@@ -178,17 +178,7 @@ const aneeq = {
 
 ---
 
-<!-- ══════════════════════════════════════ TROPHIES ══════════════════════════════════════════ -->
 
-<div align="center">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=aneeq-vector&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
-
-</div>
-
----
 
 <!-- ══════════════════════════════════════ CURRENTLY ══════════════════════════════════════════ -->
 
